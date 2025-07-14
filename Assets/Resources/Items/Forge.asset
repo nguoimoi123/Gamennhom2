@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2323b3336217ac541a2101483581c823, type: 3}
+  m_Name: Forge
+  m_EditorClassIdentifier: 
+  itemName: Forge
+  description: Forge
+  icon: {fileID: -8099549829323183167, guid: 269e0f9f52875224f878e0c7aa4dd7ae, type: 3}
+  maxStackSize: 99
+  itemType: 5

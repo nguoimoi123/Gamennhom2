@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2323b3336217ac541a2101483581c823, type: 3}
+  m_Name: Camp
+  m_EditorClassIdentifier: 
+  itemName: Camp
+  description: ss
+  icon: {fileID: -5407602041296727742, guid: 269e0f9f52875224f878e0c7aa4dd7ae, type: 3}
+  maxStackSize: 99
+  itemType: 5
+  recoveryStats:
+    healthRecovery: 0
+    hungerRecovery: 0
+    thirstRecovery: 0
+  equipmentStats:
+    maxDurability: 0
+    attackPower: 0
+    durabilityPerUse: 0
+    attackRange: 0
+  harvestStats:
+    woodEfficiency: 0
+    stoneEfficiency: 0
+    oreEfficiency: 0
+  utilityStats:
+    inventorySlotIncrease: 0

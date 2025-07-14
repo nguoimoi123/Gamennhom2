@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77868fd102cb7d84ab00e67fb536623e, type: 3}
+  m_Name: ForgeIronRecipe
+  m_EditorClassIdentifier: 
+  ingredients:
+  - item: {fileID: 11400000, guid: 79f3aeff9f551b64e8231dd654961166, type: 2}
+    amount: 1
+  additionalIngredients:
+  - item: {fileID: 11400000, guid: ae221c5798b9643478dd28154d45f29f, type: 2}
+    amount: 2
+  - item: {fileID: 11400000, guid: bb3d668d9328c0042a349803ecbaf1f4, type: 2}
+    amount: 2
+  result: {fileID: 11400000, guid: 25e2206c84f9968419bc410278aca7bc, type: 2}
+  resultAmount: 1
+  craftingTime: 50

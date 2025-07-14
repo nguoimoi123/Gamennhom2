@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2323b3336217ac541a2101483581c823, type: 3}
+  m_Name: Cheese
+  m_EditorClassIdentifier: 
+  itemName: Cheese
+  description: ss
+  icon: {fileID: 6582011127417039112, guid: 34aac81ea0088574bb2ac74d3ffc9765, type: 3}
+  maxStackSize: 99
+  itemType: 7
+  recoveryStats:
+    healthRecovery: 10
+    hungerRecovery: 10
+    thirstRecovery: 10
+  equipmentStats:
+    maxDurability: 0
+    attackPower: 0
+    durabilityPerUse: 0
+    attackRange: 0
+  harvestStats:
+    woodEfficiency: 0
+    stoneEfficiency: 0
+    oreEfficiency: 0
+  utilityStats:
+    inventorySlotIncrease: 0

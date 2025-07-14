@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b884794d5c2d08a4e9dddc79624e7a8b, type: 3}
+  m_Name: Stone Tile
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 1457581024, guid: 0fb9f5b193f48e44f92d6ad30fb66d4a, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 4234717114400271108, guid: a895cc30b5e1fa4479ea12f7ec72c14d, type: 3}
+  m_Flags: 1
+  m_ColliderType: 1
+  dropItem: {fileID: 11400000, guid: b8f6c9eb0ffa91340ba83f6846580613, type: 2}
+  minDropAmount: 1
+  maxDropAmount: 3
+  maxHealth: 100
+  isDestructible: 1
+  resourceType: 1
